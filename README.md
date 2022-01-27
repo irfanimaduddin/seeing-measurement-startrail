@@ -4,4 +4,4 @@ An automated program for calculating astronomical seeing from star trail. Fit pi
 
 Example:
 
-[![animation](/images/diffraction_animated.gif)](https://youtu.be/rWP8EiwFeyk)
+[![animation](/example/fwhms_v24039_1200_001.gif)](https://youtu.be/rWP8EiwFeyk)
