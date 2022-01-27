@@ -4,4 +4,4 @@ An automated program for calculating astronomical seeing from star trail. Fit pi
 
 Example:
 
-https://raw.githubusercontent.com/irfanimaduddin/seeing-measurement-startrail/main/example/fwhms_v24039_1200_001.mp4
+[![animation](/images/diffraction_animated.gif)](https://youtu.be/rWP8EiwFeyk)
